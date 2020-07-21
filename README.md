@@ -4,7 +4,7 @@
 - 📝 I am a B.Tech Graduate in Applied Electronics & Instrumentation Engineering
 - 🏆 I am IBM Master The Mainframe 2019 Winner
 - ✨ I am a team member of Smart India Hackathon 2019 Winner
-- ✅ I have worked as an Online Educator Intern at Unacademy
+- ✅ I have worked as an Online Educator at Unacademy
 - ☑️ I was Technical Writer Intern at Ques10
 - 💻 I am Data Science and Machine Learning Enthusiast
 

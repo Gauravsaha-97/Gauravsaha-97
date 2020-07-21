@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, here's a quick intro about me
 
-<!--
-**Gauravsaha-97/Gauravsaha-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📝 I am a B.Tech Graduate in Applied Electronics & Instrumentation Engineering
+- 🏆 I am IBM Master The Mainframe 2019 Winner
+- ✨ I am a team member of Smart India Hackathon 2019 Winner
+- 👩‍💻 I am Data Science and Machine Learning Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects that I have worked on:
+- ⭐ Digit Recognization using Keras
+- ⭐ Pixel Art Generator using JS
+- ⭐ IPL Score Prediction using Scikit-Learn
+- ⭐ Quiz App using Android
+- ⭐ Adventure Game using Python
+- ⭐ Number Facts using Numbers API
+- ⭐ Score Counter App using Android
+   🎉and much more....
+# Lets get in touch

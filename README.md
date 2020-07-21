@@ -17,4 +17,4 @@
 - 🎉and much more....
 
 # Lets get in touch 💬
-[Twitter](https://twitter.com/__Gaurav__97) | [Linkedin](www.linkedin.com/in/gauravsaha97) | [Facebook](https://www.facebook.com/gauravsaha97/)👥
+[Twitter](https://twitter.com/__Gaurav__97) | [Linkedin](www.linkedin.com/in/gauravsaha97/) | [Facebook](https://www.facebook.com/gauravsaha97/)👥

@@ -17,7 +17,7 @@
 - ⭐ [Adventure Game using Python](https://github.com/Gauravsaha-97/adventure_game)
 - ⭐ [Number Facts using Numbers API](https://github.com/Gauravsaha-97/NumberFacts)
 - ⭐ [Score Counter App using Android](https://github.com/Gauravsaha-97/ScoreCounterApp)
-<br>🎉[and much more....](https://github.com/Gauravsaha-97)
+<br> [and much more....](https://github.com/Gauravsaha-97)🎉✨
 
 <hr>
 

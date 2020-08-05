@@ -46,7 +46,7 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=Gauravsaha-97&&show_icons=true&title_color=34ebdb&icon_color=76ff40&text_color=f1fa73&bg_color=000000">
 <br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravsaha-97">
-<br>
+
 <hr>
 
 ### Lets get in touch 💬

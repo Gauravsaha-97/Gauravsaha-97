@@ -9,7 +9,7 @@
 - 💻 I am Data Science and Machine Learning Enthusiast
 <hr>
 
-## Projects that I have worked on😎
+### Projects that I have worked on😎
 - ⭐ [Digit Recognization using Keras](https://github.com/Gauravsaha-97/DigitrecognizerCNN)
 - ⭐ [Pixel Art Generator using JS](https://github.com/Gauravsaha-97/PixelArt)
 - ⭐ [IPL Score Prediction using Scikit-Learn](https://github.com/Gauravsaha-97/IPL_Score_Prediction)
@@ -19,7 +19,7 @@
 - ⭐ [Score Counter App using Android](https://github.com/Gauravsaha-97/ScoreCounterApp)
 <br> [and much more....](https://github.com/Gauravsaha-97)🎉✨
 
-### Languages and Tools:
+### Languages and Tools 👩‍💻
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1200px-PyCharm_Logo.svg.png" />
@@ -43,12 +43,13 @@
 <br>
 <br>
 <hr>
-
-## Lets get in touch 💬
-[Twitter](https://twitter.com/__Gaurav__97) | [Linkedin](https://www.linkedin.com/in/gauravsaha97) | [Facebook](https://www.facebook.com/gauravsaha97/)👥
-
 <img src = "https://github-readme-stats.vercel.app/api?username=Gauravsaha-97&&show_icons=true&title_color=34ebdb&icon_color=76ff40&text_color=f1fa73&bg_color=000000">
-
 <br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravsaha-97">
+<br>
+<hr>
+### Lets get in touch 💬
+[Twitter](https://twitter.com/__Gaurav__97) | [Linkedin](https://www.linkedin.com/in/gauravsaha97) | [Facebook](https://www.facebook.com/gauravsaha97/)👥
+
+
 

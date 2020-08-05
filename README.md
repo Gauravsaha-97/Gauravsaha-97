@@ -47,7 +47,6 @@
 <br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravsaha-97">
 <br>
-<hr>
 ### Lets get in touch 💬
 [Twitter](https://twitter.com/__Gaurav__97) | [Linkedin](https://www.linkedin.com/in/gauravsaha97) | [Facebook](https://www.facebook.com/gauravsaha97/)👥
 

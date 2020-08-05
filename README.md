@@ -47,6 +47,6 @@
 ## Lets get in touch 💬
 [Twitter](https://twitter.com/__Gaurav__97) | [Linkedin](https://www.linkedin.com/in/gauravsaha97) | [Facebook](https://www.facebook.com/gauravsaha97/)👥
 
-
+<img src = "https://github-readme-stats.vercel.app/api?username=Gauravsaha-97&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 

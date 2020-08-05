@@ -41,6 +41,7 @@
 <img align="left" alt="OpenCV" width="26px" src="http://opencv.jp/opencv-1.1.0_org/docs/opencv-logo.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png" />
 <br>
+<br>
 <hr>
 
 ## Lets get in touch 💬

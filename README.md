@@ -2,6 +2,7 @@
 
 
 - 📝 A B.Tech Graduate in Applied Electronics & Instrumentation Engineering
+- 👩‍💻 Google Explore ML Facilitator
 - 🏆 IBM Master The Mainframe 2019 Winner
 - ✨ Team Member of Smart India Hackathon 2019 Winner
 - ✅ Online Educator Intern at Unacademy
